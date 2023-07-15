@@ -1,0 +1,5 @@
+FreeSerif Font Face
+-------------------
+The FreeSerif font is licensed under the GPL.
+
+More details may be found at https://savannah.gnu.org/projects/freefont/.
