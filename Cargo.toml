@@ -6,3 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+base64 = "0.21.2"
+image = "0.24.6"
+resvg = "0.35.0"
+usvg = "0.35.0"
